@@ -16,7 +16,6 @@ def read_yaml(file_path):
             logger.info("Succesfully read the YAML File")
             return config
         
-
     except Exception as e:
         logger.error("Error while reading YAML File")
         raise CustomException("Failed to read YAML File",e)
