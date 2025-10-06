@@ -1,0 +1,5 @@
+data_ingestion:
+  bucket_name = "bucket-1-yashp"
+  bucket_file_name ="Data.csv"
+  train_ratio = 0.8
+  
