@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/yashp/Desktop/Hotel_Reservation_Prediction/mlruns/0/a784b190d5904db9820aaa81906b0ea4/artifacts
+end_time: 1759788730385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a784b190d5904db9820aaa81906b0ea4
+run_name: funny-fish-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759788721598
+status: 3
+tags: []
+user_id: yashp
