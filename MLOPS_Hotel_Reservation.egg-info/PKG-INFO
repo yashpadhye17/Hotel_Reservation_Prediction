@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: MLOPS_Hotel_Reservation
+Version: 1
+Author: Yash N Padhye
+Requires-Dist: pandas
+Requires-Dist: numpy
