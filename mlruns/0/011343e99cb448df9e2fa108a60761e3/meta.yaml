@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/yashp/Desktop/Hotel_Reservation_Prediction/mlruns/0/011343e99cb448df9e2fa108a60761e3/artifacts
+end_time: 1759799505666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 011343e99cb448df9e2fa108a60761e3
+run_name: vaunted-tern-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759799494566
+status: 3
+tags: []
+user_id: yashp
