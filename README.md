@@ -90,8 +90,3 @@ Hotel_Reservation_Prediction/
 - **Jenkins**: Use included Jenkinsfile for automated CI/CD.
 - **Local**: Directly run using Python after dependency installation.
 
-## Contributing
-Pull requests welcome! Please submit issues for feature requests and bugs.
-
-## License
-MIT License (or specify your license here).
